@@ -10,7 +10,10 @@ This package is part of the Dexterity Network (Dex-Net) project: https://berkele
 Created and maintained by the AUTOLAB at UC Berkeley: https://autolab.berkeley.edu
 
 ## Installation
-See the website at [https://berkeleyautomation.github.io/gqcnn](https://berkeleyautomation.github.io/gqcnn) for installation instructions and API Documentation.
+Install Conda (Anaconda for Python 2.7): https://conda.io/docs/user-guide/install/index.html
+
+
+
 
 ## Usage
 As of Feb. 1, 2018, the code is licensed according to the UC Berkeley Copyright and Disclaimer Notice.
