@@ -1,12 +1,13 @@
-model_dir: /mnt/hdd/dex-net/data/models/grasp_quality
-output_dir: /mnt/hdd/dex-net/data/analyses/gqcnn_training_performance
+dataset_dir: /home/tom/co/datasets/adv_synth
+output_dir: /home/tom/co/gqcnn/results
+model_dir: /home/tom/co/gqcnn/results
 
 out_rate: 1
 font_size: 15
 dpi: 100
 
 models:
-  mini_dexnet_all_trans_01_20_17_trained_06_18_17 :
+  GQ-Adv :
     tag: GQCNN (N=100)
     type: gqcnn
     split_type: image_wise # valid split-types are image_wise, object_wise, image_stable_pose_wise
